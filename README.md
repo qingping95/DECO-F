@@ -1,6 +1,6 @@
 # DECO-F
 
-Dataset released from paper "[Numerical Formula Recognition from Tables][1]" (KDD 2021)
+Dataset released in the paper "[Numerical Formula Recognition from Tables][1]" (KDD 2021)
 
 # Citation
 ```
